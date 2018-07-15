@@ -1,6 +1,6 @@
 # Alura - Maven Course: Build from scratch to web
 
-This is the code that I've developed following the course. I've made some changes in the original one. So far I've studied up to "The life cycle". Nex weekend I'll finish the rest of the course.
+This is the code that I've developed following the course. I've made some changes in the original one.
 
 ## Content
 
@@ -42,4 +42,5 @@ This is the code that I've developed following the course. I've made some change
   - The local testing problem
   - Controlling scopes with runtime, provided, test and compile
   - Controlling scopes with override and exclusions
-  - summing up
+  - Summing up
+
